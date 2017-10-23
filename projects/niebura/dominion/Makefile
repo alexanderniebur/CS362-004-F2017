@@ -36,4 +36,8 @@ player: player.c interface.o
 all: playdom player testDrawCard testBuyCard badTestDrawCard
 
 clean:
-	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe
+	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe ct_*
+	
+cardtest:
+	gcc -o ct_1 cardtest1.c dominion.c rngs.c -Wall -fpic -coverage -lm
+	gcc -o ct_2 cardtest2.c dominion.c rngs.c -Wall -fpic -coverage -lm
