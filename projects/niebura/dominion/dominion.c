@@ -665,7 +665,7 @@ void card_adventurer (int drawntreasure, int currentPlayer, struct gameState *st
 }
 
 void card_smithy(int handPos, int currentPlayer, struct gameState *state, int i){
-  printf("TEST B\n");
+  //printf("TEST B\n");
 	//+3 Cards
   for (i = 0; i < 3; i++){
     drawCard(currentPlayer, state);
@@ -675,7 +675,7 @@ void card_smithy(int handPos, int currentPlayer, struct gameState *state, int i)
 }
 
 void card_village(int handPos, int currentPlayer, struct gameState *state){
-  printf("TEST C\n");
+  //printf("TEST C\n");
 	//+1 Card
   drawCard(currentPlayer, state);
   
@@ -687,7 +687,7 @@ void card_village(int handPos, int currentPlayer, struct gameState *state){
 }
 
 int card_embargo(struct gameState *state, int choice1, int handPos, int currentPlayer){
-  printf("TEST D\n");
+  //printf("TEST D\n");
 	//+2 Coins
   state->coins = state->coins + 2;
   
@@ -705,7 +705,7 @@ int card_embargo(struct gameState *state, int choice1, int handPos, int currentP
 }
 
 void card_tribute(struct gameState *state, int nextPlayer, int currentPlayer, int tributeRevealedCards[], int i){
-  printf("TEST E\n");
+  //printf("TEST E\n");
 	if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
     if (state->deckCount[nextPlayer] > 0){
       tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
@@ -777,7 +777,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   if (nextPlayer > (state->numPlayers - 1)){
     nextPlayer = 0;
   }
-	printf("TEST NULL\n");
+  //printf("TEST NULL\n");
   //uses switch to select card and perform actions
   switch( card ) 
     {
@@ -1346,4 +1346,3 @@ int updateCoins(int player, struct gameState *state, int bonus)
 
 
 //end of dominion.c
-
