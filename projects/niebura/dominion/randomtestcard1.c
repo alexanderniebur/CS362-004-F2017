@@ -1,152 +1,60 @@
-
+//Include necessary libraries.
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+//Include additional files.
 #include "dominion.h"
 #include "dominion_helpers.h"
-#include <string.h>
-#include <stdio.h>
-#include <assert.h>
 #include "rngs.h"
-#include <stdlib.h>
 
-#define TESTUNIT "smithy"
+int main(){
+  //Initialize the random seed.
+  srand(time(NULL));
+  //Initialize cards that can appear.
+  int kingdom[10] = {adventurer, smithy, embargo, village, mine, gardens, tribute, minion, cutpurse, sea_hag};
+  int counterS = 0;//Successful test counter
+  int counterF = 0;//Failed test counter
+  int players;//Number of players
+  int p = 0;//Specific player number for testing.
+  struct gameState*g;//Game state struct
+  int status;//Return for initializeGame(). -1 = fail, 0 = success.
+  int i,x;//Iterators for loops
+  int loop = 100;//Number of times the program loops this section.
 
+  //Loop through random testing algorithm.
+  for(i = 0; i < loop; i++){
+    players = rand()%4;//Set our number of players.
+    g = malloc(sizeof(struct gameState)); //Allocate memory for our gameState object.
+    //status = 
+    initializeGame(players, kingdom, rand(), g);//Initialize the game struct.
 
-int main() {
+    //Setup card related objects. (MAX_DECK & MAX_HAND are Macros set in dominion.h for a value of 500).
+    g->deckCount[p] = rand() % MAX_DECK;//Set the deck size.
+    g->discardCount[p] = rand() % MAX_DECK;//Randomize discard pile size.
+    g->handCount[p] = rand() % MAX_HAND;//Randomize size of the hand.
 
+    //Store the initial size of our hand.
+    status = g->handCount[p];
 
-	int i, n, p, deckCount, discardCount, handCount, rSeed, numPlayers;
-	int totalFails = 0;
-	int totalPass = 0;
-	int totalTests = 0;
-	int k[10] = {adventurer, embargo, village, minion, mine, cutpurse,
-		sea_hag, tribute, smithy, council_room}; //cards in game
-	//int handPos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
+    cardEffect(smithy, 1, 1, 1, g, 0, 0); //Run our function.
 
+    //If there are three more cards, count as success.
+    if(status + 2 == g->handCount[p]){
+      counterS++;
+    }
+    else{
+      counterF++;
+    }
 
-	struct gameState G, preG;
+    //Free our memory.
+    free(g);
+  }
 
-	//print out what card we are testing
-	printf("RANDOM TESTING: %s \n", TESTUNIT);
-
-	for (n = 0; n < 2000; n++){
-		
-		/*initialize game state (num of players, cards, and seed)*/
-
-		i = 0;
-		rSeed = rand(); //seed num
-		numPlayers = rand() % 3 + 2; //total players btwn 2-4
-		initializeGame(numPlayers, k, rSeed, &G); //initialize
-		memcpy(&preG, &G, sizeof(struct gameState)); //cpy over to save pre-state before calling card
-
-		/*generate random cards and decks for players*/
-
-		p = whoseTurn(&G); //get cur player for adjusting deck
-
-		//rand cards in deck
-		deckCount = rand() % MAX_DECK;
-		G.deckCount[p] = deckCount;
-
-		for (i = 0; i < deckCount; i++){
-			G.deck[p][i] = rand() % treasure_map;
-		}
-
-		//rand cards in hand
-		handCount = rand() % MAX_HAND;
-		G.handCount[p] = handCount;
-
-		for (i = 0; i < handCount; i++){
-			G.hand[p][i] = rand() % treasure_map;
-		}
-
-		//rand cards in discard
-		discardCount = rand() % MAX_DECK;
-		G.discardCount[p] = discardCount;
-
-		for (i = 0; i < discardCount; i++){
-			G.discard[p][i] = rand() % treasure_map;
-		}
-
-		/*Pre-Smithy Played*/
-
-		int preHandCount = G.handCount[p];
-		int prePlayedCount = G.playedCardCount;
-		int preDiscardCount = G.discardCount[p];
-		int preDeckCount = G.deckCount[p];
-
-		/*Smithy Played*/
-		cardEffect(smithy, 0, 0, 0, &G, 0, 0);
-
-		/*Post-smithy played*/
-
-		/*Testing*/
-
-		//printf("\nTest 1: Smithy properly played from hand\n");
-
-		//test fails
-		if (G.playedCardCount != (prePlayedCount+1)){
-			printf("SEED %d FAIL: Played pile increased = %d, expected = 1\n", rSeed, (G.playedCardCount - prePlayedCount));
-			totalFails++;
-			totalTests++;
-		}
-		else{
-			totalPass++;
-			totalTests++;
-
-		}
-
-
-		//printf("\nTest 2: Player's hand has +3 cards\n");
-
-		//test fails
-		if ((preHandCount + 2) != G.handCount[p]){
-			printf("SEED %d FAIL: expected hand count = %d, actual = %d\n", rSeed, (preHandCount + 2) , G.handCount[p]);
-			totalFails++;
-			totalTests++;
-		}
-		else{
-			totalPass++;
-			totalTests++;		
-
-		} 
-
-		//printf("\nTest 3: Player's deck has -3 cards\n");
-
-		//test fails
-		if ( (preDeckCount - 3) != G.deckCount[p]){
-			printf("SEED %d FAIL: expected deck count = %d, actual = %d\n", rSeed, (preDeckCount-3) , G.deckCount[p]);
-			totalFails++;
-			totalTests++;
-		}
-		else{
-			totalPass++;
-			totalTests++;	
-		} 
-
-		//printf("\nTest 4: No change to kingdom or victory piles\n");
-
-		for (i = curse; i <= treasure_map; i++)
-		{
-			//printf("Card %d - supply count before: %d, supply count after: %d\n", i, startG.supplyCount[i], G.supplyCount[i]);
-			//test fails
-			if (G.supplyCount[i] != preG.supplyCount[i]){
-				printf("SEED %d FAIL: card %d expected supply = %d, actual = %d\n", rSeed, i, preG.supplyCount[i], G.supplyCount[i]);
-				totalFails++;
-				totalTests++;
-			}
-
-			else{
-				totalPass++;
-				totalTests++;
-
-			}
-		}
-
-
-	}
-
-	printf("\nTotal tests: %d, Successful: %d, Failed: %d\n", totalTests, totalPass, totalFails);
-
-
-	printf("\n");
-
-	return 0;
+  //Print results.
+  printf("Random Test for Smithy Card:\n");
+  printf("There were %d successful smithy card plays.\n", counterS);//Successful cases.
+  printf("There were %d failing smithy card plays.\n", counterF);//Failing cases.
+  printf("This was out of %d loops.\n", loop);//Output number of loops for testing.
+  
+  return 0;
 }

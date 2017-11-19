@@ -1,201 +1,75 @@
+//MACROS
+#define MAX_NUM 50
+
+//Include necessary libraries.
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+//Include additional files.
 #include "dominion.h"
 #include "dominion_helpers.h"
-#include <string.h>
-#include <stdio.h>
-#include <assert.h>
 #include "rngs.h"
-#include <stdlib.h>
 
-#define TESTUNIT "cutpurse"
+int main(){
+  //Initialize the random seed.
+  srand(time(NULL));
+  //Initialize cards that can appear.
+  int kingdom[10] = {adventurer, smithy, embargo, village, mine, gardens, tribute, minion, cutpurse, sea_hag};
+  int counterS = 0;//Successful test counter
+  int counterF = 0;//Failed test counter
+  int players;//Number of players
+  int p = 0;//Specific player number for testing.
+  struct gameState*g;//Game state struct
+  int status;//Return for initializeGame(). -1 = fail, 0 = success.
+  int i,x;//Iterators for loops
+  int loop = 100;//Number of times the program loops this section.
+  int precoin, pretokens, prehand;
 
+  //Loop through random testing algorithm.
+  for(i = 0; i < loop; i++){
+    players = rand()%4;//Set our number of players.
+    g = malloc(sizeof(struct gameState)); //Allocate memory for our gameState object.
+    //status = 
+    initializeGame(players, kingdom, rand(), g);//Initialize the game struct.
 
-int main() {
+    //Setup card related objects. (MAX_DECK & MAX_HAND are Macros set in dominion.h for a value of 500).
+    g->deckCount[p] = rand() % MAX_DECK;//Set the deck size.
+    g->discardCount[p] = rand() % MAX_DECK;//Randomize discard pile size.
+    g->handCount[p] = rand() % MAX_HAND;//Randomize size of the hand.
+    g->supplyCount[1] = rand() % MAX_NUM;//Randomize Supply.
+    g->embargoTokens[1] = rand() % MAX_NUM;//Randomize embargo tokens.
+    g->coins = rand() % MAX_NUM;//Randomize coins.
 
+    //Store the initial size of our stuff.
+    precoin = g->coins;
+    pretokens = g->embargoTokens[1];
+    prehand = g->handCount[1];
+    
+    status = cardEffect(embargo, 1, 1, 1, g, 0, 0); //Run our function.
 
-	int i, j, n, p, deckCount, discardCount, handCount, rSeed, numPlayers;
-	int totalFails = 0;
-	int totalPass = 0;
-	int totalTests = 0;
-	int k[10] = {adventurer, embargo, village, minion, mine, cutpurse,
-		sea_hag, tribute, smithy, council_room}; //cards in game
-	//int handPos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
-
-
-	struct gameState G, preG;
-
-	//print out what card we are testing
-	printf("RANDOM TESTING: %s \n", TESTUNIT);
-
-	for (n = 0; n < 2000; n++){
-		
-		/*initialize game state (num of players, cards, and seed)*/
-
-		i = 0;
-		rSeed = rand(); //seed num
-		numPlayers = rand() % 3 + 2; //total players btwn 2-4
-		initializeGame(numPlayers, k, rSeed, &G); //initialize
-		memcpy(&preG, &G, sizeof(struct gameState)); //cpy over to save pre-state before calling card
-
-		/*generate random cards and decks for players*/
-
-		p = whoseTurn(&G); //get cur player for adjusting deck
-
-		//rand cards in deck
-		deckCount = rand() % MAX_DECK;
-		G.deckCount[p] = deckCount;
-
-		for (i = 0; i < deckCount; i++){
-			G.deck[p][i] = rand() % treasure_map;
-		}
-
-		//rand cards in hand
-		handCount = rand() % MAX_HAND;
-		int randTreasure = 0;
-
-		for (i = 0; i < numPlayers; i++){
-			G.handCount[p] = handCount;
-			G.hand[p][0] = cutpurse;
-
-			for (j = 1; j < handCount; j++){
-				randTreasure = rand() % 3;
-				if (randTreasure == 0){
-					G.hand[i][j] = copper;
-
-				}
-				else if (randTreasure == 1){
-					G.hand[i][j] = silver;
-				}
-				else{
-					G.hand[i][j] = gold;
-				}
-
-			}
-		}
-
-		G.handCount[p] = handCount;
-
-		for (i = 0; i < handCount; i++){
-			G.hand[p][i] = rand() % treasure_map;
-		}
-
-		//rand cards in discard
-		discardCount = rand() % MAX_DECK;
-		G.discardCount[p] = discardCount;
-
-		for (i = 0; i < discardCount; i++){
-			G.discard[p][i] = rand() % treasure_map;
-		}
-
-		/*Pre-Cutpurse Played*/
-
-		int preHandCount = G.handCount[p];
-		int prePlayedCount = G.playedCardCount;
-		int preDiscardCount = G.discardCount[p];
-		int preDeckCount = G.deckCount[p];
-		int preTreasure = 0;
-
-		//collect copper count of all players
-		int preCopper[numPlayers];
-		int count = 0;
-
-		for (i = 0; i < numPlayers; i++){
-			for (j = 0; j < G.handCount[p]; j++){
-				if(G.hand[i][j] == copper) 
-				count++;
-			}
-			preCopper[i] = count;
-			count = 0;		
-		}
-
-		for (i = 0; i < numPlayers; i++){
-			preCopper[i] = 0;
-		}
-
-		//collect treasure count of current player
-		for (i = 0; i < G.handCount[p]; i++){
-		if(G.hand[p][i] == copper || G.hand[p][i] == silver || G.hand[p][i] == gold) 
-			preTreasure++;
-		}
-
-		/*Cutpurse played*/
-		cardEffect(cutpurse, 0, 0, 0, &G, 0, 0);
-
-		int postTreasure = 0;
-		for (i = 0; i < G.handCount[p]; i++){
-		if(G.hand[p][i] == copper || G.hand[p][i] == silver || G.hand[p][i] == gold) 
-			postTreasure++;
-		}
-
-
-		//collect copper count of all players
-		int postCopper[numPlayers];
-
-		for (i = 0; i < numPlayers; i++){
-			for (j = 0; j < G.handCount[p]; j++){
-				if(G.hand[i][j] == copper) 
-				count++;
-			}
-			postCopper[i] = count;
-			count = 0;
-			
-		}
-
-		/*Testing*/
-
-		//check to see cutpurse properly played from hand
-
-		//test fails
-		if (G.playedCardCount != (prePlayedCount+1)){
-			printf("SEED %d FAIL: Played pile increased = %d, expected = 1\n", rSeed, (G.playedCardCount - prePlayedCount));
-			totalFails++;
-			totalTests++;
-
-		}
-		else{
-			totalPass++;
-			totalTests++;
-		}
-
-		//check current players coins to see if silver was added 
-
-		//check current players coins to see if total values is +2
-
-		if (postTreasure-2 != preTreasure){
-			printf("SEED %d FAIL: Player's coins increased = %d, expected = 2\n", rSeed, postTreasure - preTreasure);
-			totalFails++;
-			totalTests++;
-		}
-		else{
-			totalPass++;
-			totalTests++;
-		}
-
-		//check other players to see if 1 copper was discarded if they had one
-
-		for (i = 0; i < numPlayers; i++){
-			if (i != p){
-				if (postCopper[i] != preCopper[i]+1){
-					printf("SEED %d FAIL: Player's copper = %d, expected = 2\n", rSeed, postCopper[i], preCopper[i]+1);
-					totalFails++;
-					totalTests++;
-				}
-				else{
-					totalPass++;
-					totalTests++;
-				}
-
-
-			}
-		}
-
-
-
+    //If there are three more cards, count as success.
+    if(status == 0){
+      if(prehand - 1 == g->handCount[1]){
+	if(pretokens + 1 == g->embargoTokens[1]){
+	  if(precoin + 2 == g->coins){
+	    counterS++;
+	  }
 	}
+      }
+    }
+    else{
+      counterF++;
+    }
 
-	printf("\nTotal tests: %d, Successful: %d, Failed: %d\n", totalTests, totalPass, totalFails);
+    //Free our memory.
+    free(g);
+  }
 
-
-	printf("\n");
-
-	return 0;
+  //Print results.
+  printf("Random Test for Embargo Card:\n");
+  printf("There were %d successful Embargo card plays.\n", counterS);//Successful cases.
+  printf("There were %d failing Embargo card plays.\n", counterF);//Failing cases.
+  printf("This was out of %d loops.\n", loop);//Output number of loops for testing.
+  
+  return 0;
 }
