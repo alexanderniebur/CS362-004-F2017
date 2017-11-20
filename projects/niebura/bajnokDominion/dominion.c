@@ -654,6 +654,9 @@ int Adventurer(struct gameState * state){
 
   while(drawntreasure<2){
   if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+			if(state->discardCount[currentPlayer] < 1){
+				break;
+			}
     shuffle(currentPlayer, state);
   }
   drawCard(currentPlayer, state);
@@ -683,7 +686,7 @@ int Smithy(struct gameState * state, int handPos){
 
    //+3 Cards
    //Bug two: 2 cards drawn instead of 3
-      for (i = 1; i < 3; i++)
+      for (i = 0; i < 3; i++)
   {
     drawCard(currentPlayer, state);
   }

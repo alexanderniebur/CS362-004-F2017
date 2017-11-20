@@ -1,0 +1,49 @@
+	The first bug I was able to find was spotted thanks to my randomtestcard1.c was one that seems to have been setup during the second assignment.
+On line 689, Katherine’s Smithy code only loops two times resulting with not giving enough cards for the smithy.
+This results with a net positive of one additional card compared to the net positive of two that the card would normally result with.
+
+Code referenced:
+for (i = 1; i < 3; i++)
+{
+    drawCard(currentPlayer, state);
+}
+
+This fails my check in randomtestcard1.c noted below:
+//Store the initial size of our hand.
+status = g->handCount[p];
+
+cardEffect(smithy, 1, 1, 1, g, 0, 0); //Run our function.
+
+//If there are three more cards, count as success.
+if(status + 2 == g->handCount[p]){
+  counterS++;
+}
+else{
+  counterF++;
+}
+In order to fix this, I reverted the for loop initialization on line 689 to 
+for (i = 0; i < 3; i++)
+
+
+    The second bug was a lot less obvious, as I suffered finding this error in my own implementation. When looking for the segmentation faults that occur when running
+randomtestadventurer.c was initially very difficult. For starters, I had to check if it was caused by any of the checks in my file.
+This lead to me filling my test case with a bunch of outputs, and I was able to deduce that the errors were coming from the adventurer implementation.
+My next step was to look into the implementation and find what the error was. I started with looking for array indexing issues, and with another set of output testing,
+I was able to find the issue to lie in line 660:
+cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+
+    This was because “state->handCount[currentPlayer]-1” would go negative after a long enough time, which did not make much sense to me at first,
+but after thinking for a bit I realized that this was caused by decks that have minimal amounts of treasure cards. In order to prevent this,
+we need to have a checker for an empty deck and empty discard pile, and if that condition gets hit, then we need to break from the loop,
+discard the extra cards we drew, and continue with the game. Since there was already an implementation for checking the deck size on line 656,
+we only need to add the discard pile checker, which we can reference line 671, and the “state->discardCount[currentPlayer]” to get our number.
+This results with our catch for the error, starting on line 656 being:
+if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+   if(state->discardCount[currentPlayer] < 1){//if the discard is empty as well, we have gone through all possible cards.
+	break;
+   }
+   shuffle(currentPlayer, state);
+}
+This will still fail the treasure counter for randomtestadventurer.c, but since there was not enough treasure cards to begin with,
+there was no way it would have succeeded in the first place. This is also something that could happen in an actual game if a player
+was not paying attention/did not know how many of a card they had in their deck.

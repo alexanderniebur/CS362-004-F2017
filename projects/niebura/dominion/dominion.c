@@ -644,23 +644,45 @@ int getCost(int cardNumber)
 }
 
 void card_adventurer (int drawntreasure, int currentPlayer, struct gameState *state, int temphand[], int cardDrawn, int z){
+	int i = 0;
 	while(drawntreasure<2){
 		if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+			if(state->discardCount[currentPlayer] < 1){
+				break;
+			}
+			//printf("Pre-shuffle\n");
 			shuffle(currentPlayer, state);
+			//printf("Post-shuffle\n");
 		}
+		//printf("Pre-draw\n");
 		drawCard(currentPlayer, state);
+		//printf("Post-draw\nAlso %d\n", state->handCount[currentPlayer]-1);
+		
+		/*if(state->handCount[currentPlayer]-1 < 0){
+			//Break from the code to prevent segementation fault
+			printf("Out of range test\n");
+			break;
+		}*/
+		
 		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
-		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold){
+			//printf("Drawn Treasure\n");
 			drawntreasure++;
+		}
 		else{
+			//printf("Pre temp hand stuff\n");
 			temphand[z]=cardDrawn;
 			state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
 			z++;
+			//printf("Post temp hand stuff\n");
 		}
+		//printf("Current loop: %d\n", i++);
   }
   while(z-1>=0){
+		//printf("Pre-discard %d\n", z);
 		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
 		z=z-1;
+		//printf("Post-discard %d\n", z);
   }
 }
 

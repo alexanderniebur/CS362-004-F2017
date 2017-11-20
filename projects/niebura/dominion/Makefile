@@ -42,7 +42,7 @@ cardtest:
 	gcc -o ct_1 cardtest1.c dominion.c rngs.c -Wall -fpic -coverage -lm
 	gcc -o ct_2 cardtest2.c dominion.c rngs.c -Wall -fpic -coverage -lm
 	#Assignment 4 code.
-	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.c rngs.c $(CFLAGS)
+	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.c rngs.c interface.c $(CFLAGS)
 	gcc -o randomtestcard1 -g randomtestcard1.c dominion.c rngs.c $(CFLAGS)
 	gcc -o randomtestcard2 -g randomtestcard2.c dominion.c rngs.c $(CFLAGS)
 	#Output to file.

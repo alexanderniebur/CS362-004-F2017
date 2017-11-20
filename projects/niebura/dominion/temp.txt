@@ -1,0 +1,2874 @@
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Drawn Treasure
+Current loop: 32
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Drawn Treasure
+Current loop: 36
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Drawn Treasure
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Drawn Treasure
+Current loop: 12
+Drawn Treasure
+Current loop: 13
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Drawn Treasure
+Current loop: 39
+Drawn Treasure
+Current loop: 40
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Drawn Treasure
+Current loop: 28
+Drawn Treasure
+Current loop: 29
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Drawn Treasure
+Current loop: 4
+Current loop: 5
+Drawn Treasure
+Current loop: 6
+Drawn Treasure
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Drawn Treasure
+Current loop: 29
+Drawn Treasure
+Current loop: 30
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Drawn Treasure
+Current loop: 32
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Drawn Treasure
+Current loop: 3
+Drawn Treasure
+Current loop: 4
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Drawn Treasure
+Current loop: 23
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Drawn Treasure
+Current loop: 37
+Current loop: 38
+Drawn Treasure
+Current loop: 39
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Drawn Treasure
+Current loop: 11
+Drawn Treasure
+Current loop: 12
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Drawn Treasure
+Current loop: 36
+Drawn Treasure
+Current loop: 0
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Drawn Treasure
+Current loop: 9
+Drawn Treasure
+Current loop: 10
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Drawn Treasure
+Current loop: 36
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Drawn Treasure
+Current loop: 28
+Current loop: 29
+Drawn Treasure
+Current loop: 30
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Current loop: 39
+Drawn Treasure
+Current loop: 40
+Current loop: 41
+Drawn Treasure
+Current loop: 42
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Drawn Treasure
+Current loop: 16
+Current loop: 17
+Drawn Treasure
+Current loop: 18
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Drawn Treasure
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Drawn Treasure
+Current loop: 8
+Drawn Treasure
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Drawn Treasure
+Current loop: 22
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Current loop: 39
+Drawn Treasure
+Current loop: 40
+Drawn Treasure
+Current loop: 41
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Estate       
+2  Copper       
+3  Copper       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Curse        
+17 Copper       
+18 Copper       
+19 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 20
+Second Pass x: 20
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Current loop: 39
+Current loop: 40
+Current loop: 41
+Current loop: 42
+Current loop: 43
+Current loop: 44
+Current loop: 45
+Current loop: 46
+Current loop: 47
+Current loop: 48
+Current loop: 49
+Current loop: 50
+Current loop: 51
+Current loop: 52
+Current loop: 53
+Current loop: 54
+Current loop: 55
+Current loop: 56
+Current loop: 57
+Current loop: 58
+Current loop: 59
+Current loop: 60
+Current loop: 61
+Current loop: 62
+Current loop: 63
+Current loop: 64
+Current loop: 65
+Current loop: 66
+Current loop: 67
+Current loop: 68
+Current loop: 69
+Drawn Treasure
+Current loop: 70
+Drawn Treasure
+Current loop: 71
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Estate       
+2  Copper       
+3  Copper       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Curse        
+17 Copper       
+18 Copper       
+19 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 22
+Second Pass x: 22
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Drawn Treasure
+Current loop: 36
+Drawn Treasure
+Current loop: 37
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Estate       
+2  Copper       
+3  Copper       
+4  Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 5
+Second Pass x: 5
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Current loop: 39
+Current loop: 40
+Current loop: 41
+Current loop: 42
+Current loop: 43
+Current loop: 44
+Current loop: 45
+Current loop: 46
+Current loop: 47
+Current loop: 48
+Current loop: 49
+Current loop: 50
+Current loop: 51
+Drawn Treasure
+Current loop: 52
+Drawn Treasure
+Current loop: 53
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Estate       
+2  Copper       
+3  Copper       
+4  Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 5
+Second Pass x: 5
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Drawn Treasure
+Current loop: 26
+Drawn Treasure
+Current loop: 27
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Drawn Treasure
+Current loop: 8
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Drawn Treasure
+Current loop: 22
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Drawn Treasure
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Drawn Treasure
+Current loop: 26
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Drawn Treasure
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Drawn Treasure
+Current loop: 21
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Drawn Treasure
+Current loop: 26
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Drawn Treasure
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Drawn Treasure
+Current loop: 12
+Drawn Treasure
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Drawn Treasure
+Current loop: 38
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Drawn Treasure
+Current loop: 22
+Drawn Treasure
+Current loop: 23
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Current loop: 32
+Drawn Treasure
+Current loop: 33
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Drawn Treasure
+Current loop: 32
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Estate       
+2  Copper       
+3  Estate       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Copper       
+17 Copper       
+18 Copper       
+19 Copper       
+20 Curse        
+21 Copper       
+22 Copper       
+23 Copper       
+24 Copper       
+25 Curse        
+26 Copper       
+27 Copper       
+28 Curse        
+29 Curse        
+30 Curse        
+31 Curse        
+32 Copper       
+33 Copper       
+34 Copper       
+35 Copper       
+36 Copper       
+37 Copper       
+38 Copper       
+39 Copper       
+40 Copper       
+41 Copper       
+42 Copper       
+43 Curse        
+44 Copper       
+45 Copper       
+46 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 48
+Second Pass x: 48
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Drawn Treasure
+Current loop: 15
+Drawn Treasure
+Current loop: 16
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Drawn Treasure
+Current loop: 23
+Drawn Treasure
+Current loop: 24
+Drawn Treasure
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Drawn Treasure
+Current loop: 4
+Drawn Treasure
+Current loop: 5
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Copper       
+2  Copper       
+3  Estate       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Copper       
+17 Copper       
+18 Copper       
+19 Copper       
+20 Curse        
+21 Copper       
+22 Copper       
+23 Copper       
+24 Copper       
+25 Curse        
+26 Copper       
+27 Copper       
+28 Curse        
+29 Curse        
+30 Curse        
+31 Curse        
+32 Copper       
+33 Copper       
+34 Copper       
+35 Copper       
+36 Copper       
+37 Copper       
+38 Copper       
+39 Copper       
+40 Copper       
+41 Copper       
+42 Copper       
+43 Curse        
+44 Copper       
+45 Copper       
+46 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 48
+Second Pass x: 48
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Drawn Treasure
+Current loop: 28
+Drawn Treasure
+Current loop: 29
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Copper       
+2  Copper       
+3  Estate       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Copper       
+17 Copper       
+18 Copper       
+19 Copper       
+20 Curse        
+21 Copper       
+22 Copper       
+23 Copper       
+24 Copper       
+25 Curse        
+26 Copper       
+27 Copper       
+28 Curse        
+29 Curse        
+30 Curse        
+31 Curse        
+32 Copper       
+33 Copper       
+34 Copper       
+35 Copper       
+36 Copper       
+37 Copper       
+38 Copper       
+39 Copper       
+40 Copper       
+41 Copper       
+42 Copper       
+43 Curse        
+44 Copper       
+45 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 46
+Second Pass x: 46
+Drawn Treasure
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Drawn Treasure
+Current loop: 28
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Drawn Treasure
+Current loop: 26
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Drawn Treasure
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Drawn Treasure
+Current loop: 36
+Drawn Treasure
+Current loop: 37
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Copper       
+2  Copper       
+3  Estate       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Copper       
+17 Copper       
+18 Copper       
+19 Copper       
+20 Curse        
+21 Copper       
+22 Copper       
+23 Copper       
+24 Copper       
+25 Curse        
+26 Copper       
+27 Copper       
+28 Curse        
+29 Copper       
+30 Curse        
+31 Copper       
+32 Copper       
+33 Copper       
+34 Copper       
+35 Copper       
+36 Copper       
+37 Copper       
+38 Copper       
+39 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 40
+Second Pass x: 40
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Drawn Treasure
+Current loop: 32
+Current loop: 33
+Drawn Treasure
+Current loop: 34
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Drawn Treasure
+Current loop: 4
+Current loop: 5
+Drawn Treasure
+Current loop: 6
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Current loop: 36
+Drawn Treasure
+Current loop: 37
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Current loop: 8
+Drawn Treasure
+Current loop: 9
+Drawn Treasure
+Current loop: 0
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Current loop: 20
+Drawn Treasure
+Current loop: 21
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Drawn Treasure
+Current loop: 21
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 2
+Drawn Treasure
+Current loop: 3
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Drawn Treasure
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Drawn Treasure
+Current loop: 8
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Estate       
+1  Copper       
+2  Copper       
+3  Estate       
+4  Copper       
+5  Copper       
+6  Copper       
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+15 Copper       
+16 Copper       
+17 Copper       
+18 Copper       
+19 Copper       
+20 Copper       
+21 Copper       
+22 Copper       
+23 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 24
+Second Pass x: 24
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Drawn Treasure
+Current loop: 27
+Drawn Treasure
+Current loop: 28
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Drawn Treasure
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Current loop: 0
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Drawn Treasure
+Current loop: 3
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 1
+Second Pass x: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Drawn Treasure
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Curse        
+2  Estate       
+3  Copper       
+4  Copper       
+5  Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 6
+Second Pass x: 6
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Current loop: 39
+Current loop: 40
+Current loop: 41
+Current loop: 42
+Current loop: 43
+Current loop: 44
+Current loop: 45
+Current loop: 46
+Current loop: 47
+Current loop: 48
+Drawn Treasure
+Current loop: 49
+Drawn Treasure
+Current loop: 50
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 3
+Second Pass x: 3
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Current loop: 37
+Current loop: 38
+Current loop: 39
+Current loop: 40
+Current loop: 41
+Current loop: 42
+Current loop: 43
+Current loop: 44
+Drawn Treasure
+Current loop: 45
+Drawn Treasure
+Current loop: 46
+Failure!
+Hand:
+Player 0's hand:
+#  Card
+0  Copper       
+1  Curse        
+2  Estate       
+3  Curse        
+4  Copper       
+5  Copper       
+6  Curse        
+7  Copper       
+8  Copper       
+9  Copper       
+10 Copper       
+11 Copper       
+12 Copper       
+13 Copper       
+14 Copper       
+
+
+Deck:
+Player 0's deck: 
+
+
+First Pass x: 15
+Second Pass x: 15
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Drawn Treasure
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Drawn Treasure
+Current loop: 21
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Drawn Treasure
+Current loop: 37
+Drawn Treasure
+Current loop: 38
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Drawn Treasure
+Current loop: 31
+Drawn Treasure
+Current loop: 32
+Drawn Treasure
+Current loop: 0
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Drawn Treasure
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Drawn Treasure
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Drawn Treasure
+Current loop: 7
+Current loop: 8
+Drawn Treasure
+Current loop: 9
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Current loop: 35
+Current loop: 36
+Drawn Treasure
+Current loop: 37
+Current loop: 38
+Drawn Treasure
+Current loop: 39
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Drawn Treasure
+Current loop: 4
+Current loop: 5
+Drawn Treasure
+Current loop: 6
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Drawn Treasure
+Current loop: 8
+Current loop: 9
+Drawn Treasure
+Current loop: 10
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Drawn Treasure
+Current loop: 27
+Drawn Treasure
+Current loop: 28
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Current loop: 0
+Drawn Treasure
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Drawn Treasure
+Current loop: 4
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Drawn Treasure
+Current loop: 21
+Drawn Treasure
+Current loop: 0
+Current loop: 1
+Drawn Treasure
+Current loop: 2
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Drawn Treasure
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Drawn Treasure
+Current loop: 19
+Drawn Treasure
+Current loop: 20
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Drawn Treasure
+Current loop: 26
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Drawn Treasure
+Current loop: 23
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Drawn Treasure
+Current loop: 25
+Drawn Treasure
+Current loop: 26
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Drawn Treasure
+Current loop: 14
+Drawn Treasure
+Current loop: 15
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Current loop: 29
+Current loop: 30
+Current loop: 31
+Current loop: 32
+Current loop: 33
+Current loop: 34
+Drawn Treasure
+Current loop: 35
+Drawn Treasure
+Current loop: 36
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Current loop: 17
+Current loop: 18
+Current loop: 19
+Current loop: 20
+Current loop: 21
+Current loop: 22
+Current loop: 23
+Current loop: 24
+Current loop: 25
+Current loop: 26
+Current loop: 27
+Current loop: 28
+Drawn Treasure
+Current loop: 29
+Drawn Treasure
+Current loop: 30
+Current loop: 0
+Current loop: 1
+Current loop: 2
+Current loop: 3
+Current loop: 4
+Current loop: 5
+Current loop: 6
+Current loop: 7
+Current loop: 8
+Current loop: 9
+Current loop: 10
+Current loop: 11
+Current loop: 12
+Current loop: 13
+Current loop: 14
+Current loop: 15
+Current loop: 16
+Drawn Treasure
+Current loop: 17
+Drawn Treasure
+Current loop: 18
+Random Test for Adventurer Card:
+There were 87 successful adventure card plays.
+There were 13 failing adventure card plays.
+This was out of 100 loops.

@@ -18,9 +18,9 @@ int main(){
   int p = 0;//Specific player number for testing.
   struct gameState*g;//Game state struct
   int status;//Return for initializeGame(). -1 = fail, 0 = success.
-  int i,x;//Iterators for loops
+  int i,x,y;//Iterators for loops
   int loop = 100;//Number of times the program loops this section.
-
+	int M = 50;
   //Loop through random testing algorithm.
   for(i = 0; i < loop; i++){
     players = rand()%4;//Set our number of players.
@@ -29,9 +29,9 @@ int main(){
     initializeGame(players, kingdom, rand(), g);//Initialize the game struct.
 
     //Setup card related objects. (MAX_DECK & MAX_HAND are Macros set in dominion.h for a value of 500).
-    g->deckCount[p] = rand() % MAX_DECK;//Set the deck size.
-    g->discardCount[p] = rand() % MAX_DECK;//Randomize discard pile size.
-    g->handCount[p] = rand() % MAX_HAND;//Randomize size of the hand.
+    g->deckCount[p] = rand() % M+25;//Set the deck size.
+    g->discardCount[p] = rand() % M+25;//Randomize discard pile size.
+    g->handCount[p] = rand() % M;//Randomize size of the hand.
 
     status = 0;
 
@@ -45,8 +45,8 @@ int main(){
     cardEffect(adventurer, 1, 1, 1, g, 0, 0); //Run our function.
     
     //Recount to see if we get more treasures.
-    for(x = 0; x < g->handCount[p]; x++){
-      if(g->hand[p][x] == gold || g->hand[p][x] == silver || g->hand[p][x] == copper){
+    for(y = 0; y < g->handCount[p]; y++){
+      if(g->hand[p][y] == gold || g->hand[p][y] == silver || g->hand[p][y] == copper){
 	status--;
       }
     }
@@ -54,9 +54,17 @@ int main(){
 	//If there are now more treasures, mark as success.
     if(status < 0){
       counterS++;
+			//printf("Success!\n");
     }
     else{
       counterF++;
+			printf("Failure!\n");
+			printf("Hand:\n");
+			printHand(p, g);
+			printf("\nDeck:\n");
+			printDeck(p,g);
+			printf("\nFirst Pass x: %d\n",x);
+			printf("Second Pass x: %d\n",x);
     }
 
     //Free our memory.
